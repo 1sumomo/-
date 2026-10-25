@@ -1,0 +1,16 @@
+{
+  "name": "現場黒板",
+  "short_name": "現場黒板",
+  "description": "黒板を重ねて工事写真を撮影し、仕分け・台帳出力まで行うアプリ",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0d110e",
+  "theme_color": "#0d110e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
